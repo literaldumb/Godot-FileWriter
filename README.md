@@ -1,5 +1,5 @@
 #Godot-FileWriter
-- File I/O support on Godot engine for Android. (https://github.com/okamstudio/godot)
+- File I/O support on Godot engine for Android. Save necessary settings,score,user profile etc. for your games 
 
 - Godot version 2.0 stable.
 
