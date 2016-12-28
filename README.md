@@ -24,8 +24,11 @@ Add the following in the engine.cfg file:
 **Use them in the script:**
 
 > var singleton = Globals.get_singleton("GodotFileWriter")
+
 > singleton.initFile(String filename) # creates a file 'filename' under Documents/MyAppData location. 
+
 > singleton.publish(String content) # writes the content to the file
+
 > singleton.fetchContent() # fetches the file content
 
 **Note:** The 'Documents/MyAppData' location can be easily chnaged through the code. The file can also be created as a hidden file. 
