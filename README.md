@@ -54,4 +54,6 @@ Other plugings:
 - [Godot-SpeechToText](https://github.com/literaldumb/Godot-SpeechToText)
 - [Godot-TextToSpeech](https://github.com/literaldumb/Godot-TextToSpeech)
 - [Godot-CustomSpeech](https://github.com/literaldumb/Godot-CustomSpeech)
+- [GodotVibrate](https://github.com/literaldumb/GodotVibrate)
+- [GodotToast](https://github.com/literaldumb/GodotToast)
 
